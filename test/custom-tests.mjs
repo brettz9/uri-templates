@@ -1,5 +1,5 @@
 import assert from 'proclaim';
-import UriTemplate from '../uri-templates.js';
+import UriTemplate from '../src/uri-templates.mjs';
 
 describe("Guessing variable priority", function () {
 	it('GitHub issue #8', function () {

@@ -2,7 +2,7 @@ import {readFile} from 'fs/promises';
 import {join, dirname} from 'path';
 import {fileURLToPath} from 'url';
 import assert from 'proclaim';
-import uriTemplates from '../uri-templates.js';
+import uriTemplates from '../src/uri-templates.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
