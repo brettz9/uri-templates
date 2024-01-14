@@ -6,8 +6,8 @@ export default [{
   output: {
     file: 'uri-templates.js',
     format: 'umd',
-    name: 'UriTemplate'
+    name: 'UriTemplate',
   },
   plugins: [
-  ]
+  ],
 }];

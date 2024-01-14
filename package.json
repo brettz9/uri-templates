@@ -27,6 +27,7 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "@eslint/js": "^8.56.0",
+    "@stylistic/eslint-plugin": "^1.5.3",
     "c8": "^9.1.0",
     "eslint": "^9.0.0-alpha.1",
     "globals": "^13.24.0",
